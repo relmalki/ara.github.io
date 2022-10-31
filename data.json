@@ -4,7 +4,7 @@
         "qas": [
             {
                 "id": "00001",
-                "is_impossible": False,
+                "is_impossible": false,
                 "question": "Who is the author of the Mistborn series?",
                 "answers": [
                     {
@@ -21,7 +21,7 @@
         "qas": [
             {
                 "id": "00002",
-                "is_impossible": False,
+                "is_impossible": false,
                 "question": "When was the series published?",
                 "answers": [
                     {
@@ -32,7 +32,7 @@
             },
             {
                 "id": "00003",
-                "is_impossible": False,
+                "is_impossible": false,
                 "question": "What are the three books in the series?",
                 "answers": [
                     {
@@ -43,7 +43,7 @@
             },
             {
                 "id": "00004",
-                "is_impossible": True,
+                "is_impossible": true,
                 "question": "Who is the main character in the series?",
                 "answers": [],
             },
